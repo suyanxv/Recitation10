@@ -1,1 +1,1 @@
-bad description
+good readme
